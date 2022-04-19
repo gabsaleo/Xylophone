@@ -1,5 +1,5 @@
 ---
-name: pull_request_templeate
+name: pull_request_templeate 
 about: "[squad] nome da feature"
 title: ''
 labels: ''
